@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <!--esta es la tipografia del proyeecto-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,6 +14,20 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Aqui irá el reporte</h1>
+      <!--titulo-->
+    <header>
+        <h1>Pedidos</h1>
+    </header>
+    <!--fin del titulo-->
+
+     <!--barra de navegacion del inicio-->
+    <nav class="contenedor_navegacion">
+        <a href="index.html">inicio</a>
+        <a href="reporte.html">Reporte</a>
+        <a href="inventario.html">Inventario</a>
+        <a href="pedidos.html">Pedidos</a>
+    </nav>
+    <!--termina la barra de navegacion-->
+
 </body>
 </html>

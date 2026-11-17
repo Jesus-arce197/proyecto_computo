@@ -133,6 +133,15 @@ footer
     font-size: 2rem;
 }
 
+.boton p
+{
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--azul);
+    font-size: 2rem;
+}
+
+
 /** codigo css del contenido principal **/
 .principal
 {
