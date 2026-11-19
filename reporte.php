@@ -23,10 +23,10 @@
 
      <!--barra de navegacion del inicio-->
     <nav class="contenedor_navegacion">
-        <a href="index.html">inicio</a>
-        <a href="reporte.html">Reporte</a>
-        <a href="inventario.html">Inventario</a>
-        <a href="pedidos.html">Pedidos</a>
+        <a href="index.php">inicio</a>
+        <a href="reporte.php">Reporte</a>
+        <a href="inventario.php">Inventario</a>
+        <a href="pedidos.php">Pedidos</a>
     </nav>
     <!--termina la barra de navegacion-->
 
